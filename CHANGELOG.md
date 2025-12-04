@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.19.4
+
+### Patch Changes
+
+- [#761](https://github.com/mengxi-ream/read-frog/pull/761) [`2d4bf6c`](https://github.com/mengxi-ream/read-frog/commit/2d4bf6c11b05d43319c48497445ebf817f63baac) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - feat: add engoo.com force block translation rule
+
 ## 1.19.3
 
 ### Patch Changes
